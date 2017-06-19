@@ -1,7 +1,7 @@
 Добрый день!
 
 Для запуска теста необходимо наличие IDEA, Mozilla Firefox.
-Чтобы запустить тест под ОС Widows нужно в классе CheckPage расскомментировать строку с коментарием "For Windows", для Debian образных ОС
+Чтобы запустить тест под ОС Widows нужно в классе CheckPage раскомментировать строку с коментарием "For Windows", для Debian образных ОС
 нужно раскомментировать строку "For Linux" и закомметнировать строчку для Windows. 
 
         //System.setProperty("webdriver.gecko.driver","/home/anton/Documents/newFireFox/geckodriver"); //For Linux
